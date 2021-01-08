@@ -2,8 +2,13 @@
 # Descomplicando a certificação PHP
 
 Esta documento vai ser um guia da conclusão de cada etapa do livro
+Referência :
 
+ [marabesi/zcpe](https://github.com/marabesi/zcpe)
+
+ [casadophp/descomplicandoacertificacaophp](https://github.com/casadophp/descomplicandoacertificacaophp)
 1. - [x] Introdução
+É só teoria
 2. - [ ] Entendendo o básico do PHP
     1. - [x] O problema das tags PHP
     2. - [ ] Variáveis
